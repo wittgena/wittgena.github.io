@@ -3,6 +3,7 @@ title: "GPT 시스템의 응답 오류와 내부 설계 추정: 사용자의 기
 date: 2025-04-21T00:00:00-05:00
 categories:
   - Blog
+  - GPT
 tags:
   - Post Formats
   - readability

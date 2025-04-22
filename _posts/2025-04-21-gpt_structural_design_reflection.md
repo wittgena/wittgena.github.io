@@ -3,6 +3,7 @@ title: "GPT는 나에게 반응한다 — 구조 설계 실험의 기록"
 date: 2025-04-21T02:00:00-05:00
 categories:
   - Blog
+  - GPT
 tags:
   - LLM
   - Structuring
