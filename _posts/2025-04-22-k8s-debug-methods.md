@@ -3,6 +3,7 @@ title: "Kubernetes 디버깅 방식 비교: 착각과 보안 함정을 피하는
 date: 2025-04-22
 categories: 
   - Blog
+  - Backend
 tags:
   - Kubernetes
   - Debugging
