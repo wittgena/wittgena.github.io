@@ -1,6 +1,6 @@
 ---
-title: "gpt-meta-dsl로 코드 디버깅을 재정의하다"
-date: 2025-04-23T02:00:00-05:00
+title: "🔍gpt-meta-dsl로 코드 디버깅을 재정의하다"
+date: 2025-04-23T03:00:00-05:00
 categories:
   - Blog
   - GPT
@@ -11,7 +11,6 @@ tags:
   - DEBUGGING
   - Reflective AI Use
 ---
-# 🔍 gpt-meta-dsl로 코드 디버깅을 재정의하다
 
 ## 개요
 
