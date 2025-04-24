@@ -1,10 +1,11 @@
 ---
-title: "GPT로 LEGACY 실시간 트렌드 분석 시스템 리팩토링기"
-date: 2025-04-24T02:00:00-05:00
+title: "GPT로 LEGACY 실시간 트렌드 분석 시스템 리팩토링하기"
+date: 2025-04-24T00:00:00-05:00
 categories:
   - Blog
   - GPT
   - REFACTORING
+  - Kafka Streams
 tags:
   - LLM
   - Reflective AI Use
@@ -15,7 +16,7 @@ tags:
 
 ---
 
-### 🔧 문제 인식: 단일 흐름의 과밀한 책임
+## 🔧 문제 인식: 단일 흐름의 과밀한 책임
 
 Kafka Stream 기반 검색 트렌드 집계 시스템의 중심 함수는 다음과 같았습니다. 이 구조는 기능적으로는 문제없지만, 유지보수성 측면에서 점차 문제가 되었습니다:
 
@@ -60,7 +61,7 @@ fun aggregateSearchLog(): Consumer<KTable<String, SearchLogDto>> = Consumer { ta
 
 ---
 
-### 🧭 리팩토링 설계 흐름 (DSL 기반)
+## 🧭 리팩토링 설계 흐름 (DSL 기반)
 
 이후 DSL 기반 명령어를 활용해 단계적으로 구조 개선을 진행했습니다:
 
@@ -77,7 +78,7 @@ fun aggregateSearchLog(): Consumer<KTable<String, SearchLogDto>> = Consumer { ta
 
 ---
 
-### ✅ 최종 구조 예시 (리팩토링 이후)
+## ✅ 최종 구조 예시 (리팩토링 이후)
 
 ```kotlin
 private fun persistSearchLog(value: SearchLogDto) { ... }
@@ -89,7 +90,7 @@ private fun triggerSurgeAnalysis(keyword: String, windowStart: Long, windowEnd: 
 
 ---
 
-### 📍 마무리: 구조화된 실험과 자기주도적 개선
+## 📍 마무리: 구조화된 실험과 자기주도적 개선
 
 DSL 기반 리팩토링 실험을 통해 얻은 것은 **자신의 맥락과 구조를 재귀적으로 조율해가며 문제를 해결할 수 있는 시스템화된 사고 방식**
 
