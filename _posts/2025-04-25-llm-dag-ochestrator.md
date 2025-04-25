@@ -1,17 +1,15 @@
 ---
 title: "LLM이 DAG Orchestrator가 되려면"
-date: 2025-04-25T00:00:00-05:00
+date: 2025-04-25T00:00:00-01:00
 categories:
   - Blog
   - GPT
-  - Dag
-  - DSL
+  - DAG
 tags:
   - LLM
   - GPT
-  - Dag
-  - DSL
-  - DAG Ochestrator
+  - DAG
+  - DAG_Ochestrator
 ---
 
 ## 📌 도입: DAG Orchestrator 또는 LangGraph등은 어떻게 사용되는가?
