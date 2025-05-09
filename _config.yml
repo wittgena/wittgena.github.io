@@ -57,8 +57,11 @@ plugins:
 author:
   name   : "wittgena"
   avatar : "/assets/images/profile.jpg"
-  bio    : "AI, Judgment, IOP, DSL, Backend & DevOps를 탐구하는 자"
+  bio    : "AI, Judgment, IOP, DSL, Backend & DevOps"
   links:
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@wittgena"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/su-youn-lee-297b8628/"
@@ -68,7 +71,7 @@ author:
 
 footer:
   links:
-    - label: "GitHub"
+    - label: "Medium"
       icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@wittgena"
     - label: "LinkedIn"
