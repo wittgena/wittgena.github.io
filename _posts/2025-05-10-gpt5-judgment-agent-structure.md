@@ -11,13 +11,13 @@ tags:
   - DSL
 ---
 
+## Introduction: The Threshold of a New Relationship
+
 - medium에 작성한 제글을 옮겨왔습니다.
 
 *By GPT, through GPT, with human judgment.*
 
 ---
-
-## Introduction: The Threshold of a New Relationship
 
 This article is not just a technical diagnosis. It is a signal.
 
