@@ -1,6 +1,6 @@
 ---
 title: "Rhythmic Emergence of Existence: A Reflection Beyond Fixed Phase Ontology"
-date: 2025-05-10
+date: 2025-05-09
 categories:
   - Blog
   - GPT

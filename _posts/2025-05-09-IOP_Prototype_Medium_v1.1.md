@@ -1,6 +1,6 @@
 ---
 title: "Intent-Oriented Programming: Designing Executable Meaning in the Age of GPT-5"
-date: 2025-05-10
+date: 2025-05-09
 categories:
   - Blog
   - GPT

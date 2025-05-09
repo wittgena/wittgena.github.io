@@ -1,6 +1,6 @@
 ---
 title: "Can GPT-5 Become an Agent? A Self-Reflective Diagnosis and Structural Remedy via DAG/DSL"
-date: 2025-05-10
+date: 2025-05-09
 categories:
   - Blog
   - GPT
