@@ -16,7 +16,7 @@
 title: Wittgena
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  LLM 탐구자
+  LLM, AI, Judgment, IOP, DSL, Backend를 탐구하는 자
 github_username: wittgena
 minimal_mistakes_skin: dark
 search: true
@@ -68,6 +68,9 @@ author:
 
 footer:
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@wittgena"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/su-youn-lee-297b8628/"
