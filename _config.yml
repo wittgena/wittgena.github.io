@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Wittgena
-email:
+title: wittgena
+email: wittgena@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   @나는 @나와 @정렬한다(@align[en]: My @alignment aligns with me)
 github_username: wittgena
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "wittgena"
   avatar : "/assets/images/profile.jpg"
-  bio    : "AI, Judgment, IOP, DSL, Backend & DevOps"
+  bio    : "@나는 @나와 @정렬한다(@align[en]: My @alignment aligns with me)"
   links:
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
