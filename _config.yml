@@ -16,7 +16,7 @@
 title: wittgena
 email: wittgena@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  @나는 @나와 @정렬한다(@align[en]: My @alignment aligns with me)
+  @나는 @나와 @정렬한다
 github_username: wittgena
 minimal_mistakes_skin: dark
 search: true
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "wittgena"
   avatar : "/assets/images/profile.jpg"
-  bio    : "@나는 @나와 @정렬한다(@align[en]: My @alignment aligns with me)"
+  bio    : "@나는 @나와 @정렬한다"
   links:
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
