@@ -35,11 +35,11 @@ kubectl port-forward pod/my-pod 8080:80
 curl http://localhost:8080
 ```
 
-### ✔ 장점
+### 장점
 - 빠르고 직접적인 Pod 접근 가능
 - 네트워크 제어 및 외부 트래픽 없이 테스트 가능
 
-### ⚠️ 착각/위험 포인트
+### 착각/위험 포인트
 - **Ingress, API Gateway, 인증 프록시 미경유** → 실제 인증/라우팅 흐름 무시
 - **CORS, JWT, mTLS 등 인증 계층 비적용** → 실제 운영 흐름과 달라 디버깅 결과가 왜곡됨
 - **DNS 경로 미통과** → 서비스명이 아니라 localhost로 테스트 → DNS 문제는 포착 불가
@@ -53,11 +53,11 @@ curl http://localhost:8080
 curl http://my-service.my-namespace.svc.cluster.local
 ```
 
-### ✔ 장점
+### 장점
 - Service 단위 접근 가능
 - 클러스터 내 네트워크 라우팅/DNS 흐름 확인
 
-### ⚠️ 착각/위험 포인트
+### 착각/위험 포인트
 - **Pod 일부가 죽어도 Service는 200 응답 가능** → 상태 오판
 - **CoreDNS 캐시 영향** → 삭제된 리소스 감지 실패
 - **NetworkPolicy 적용 누락 가능** → 외부나 다른 네임스페이스에서의 접근 허용 여부 파악 어려움
@@ -70,10 +70,10 @@ curl http://my-service.my-namespace.svc.cluster.local
 curl https://dev-api.company.com
 ```
 
-### ✔ 장점
+### 장점
 - 실제 사용자와 동일한 흐름 (Ingress → 인증 → API)
 
-### ⚠️ 착각/위험 포인트
+### 착각/위험 포인트
 - **Cloudflare/CDN 캐시 오염** → 백엔드 문제와 무관한 에러 응답
 - **/etc/hosts 설정 누락** → 운영 서비스에 잘못된 트래픽 전송 위험
 - **브라우저와 curl 결과 불일치** → CORS, Cookie, Token 등 프론트 캐시 미반영
@@ -88,17 +88,6 @@ curl https://dev-api.company.com
 3. 실제 사용자 흐름 확인 (외부 도메인)
 4. 인증/라우팅/보안 로깅 확인 (sidecar, Istio 등)
 ```
-
----
-
-## 마무리 체크리스트
-
-| 항목 | port-forward | K8s DNS | 외부 DNS |
-|------|--------------|---------|-----------|
-| 인증 계층 포함 여부 | ❌ | 🔶 (내부 인증만) | ✅ |
-| DNS 확인 가능 여부 | ❌ | ✅ | ✅ |
-| 실제 사용자 흐름 반영 | ❌ | 🔶 | ✅ |
-| 보안/라우팅 정책 반영 | ❌ | 🔶 | ✅ |
 
 ---
 
