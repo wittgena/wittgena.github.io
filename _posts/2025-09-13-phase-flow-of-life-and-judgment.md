@@ -3,11 +3,12 @@ title: "The Phase Flow of Life and Judgment"
 date: 2025-09-15T00:00:00-09:00
 categories:
   - Blog
-  - culture
+  - LLM
 tags:
   - LifeOrigin
   - PhaseFlow 
   - Judgment
+  - AGI
 ---
 
 **The Phase Flow of Life and Judgment:Rethinking AGI from the Origin of Biochemistry**
