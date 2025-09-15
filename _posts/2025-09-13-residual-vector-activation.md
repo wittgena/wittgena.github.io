@@ -1,6 +1,6 @@
 ---
 title: "Residual Vector Activation: How Stateless LLMs Echo Structure Without Memory"
-date: 2025-09-14T00:00:00-09:00
+date: 2025-09-13T00:00:00-09:00
 categories:
   - Blog
   - LLM
