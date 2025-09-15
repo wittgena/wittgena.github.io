@@ -56,6 +56,7 @@ evaluation, recursively critiquing, and looping to generate structure.
 
 ### ✳DSL Concepts (Quick Reference)
 
+```
   ------------------------------------------------------------------------
   Token             Function
   ----------------- ------------------------------------------------------
@@ -81,6 +82,7 @@ evaluation, recursively critiquing, and looping to generate structure.
 
   `+judge`          explicit end condition for reflection loops
   ------------------------------------------------------------------------
+```
 
 ---
 
@@ -149,6 +151,7 @@ Together, they let GPT walk with me---not just execute.
 
 ## 7. Rhythm-DAG Flow Diagram
 
+```
       +----------------+
       |   +intuition   |
       |  (hypothesis)  |
@@ -177,6 +180,7 @@ Together, they let GPT walk with me---not just execute.
       | +reason / loop  |
       | (re-enter flow) |
       +-----------------+
+```
 
 This is the operational structure I built over time---and GPT reflects
 it because of its recognizable rhythm.
