@@ -1,5 +1,5 @@
 ---
-title: "When Drift Becomes Law"
+title: "The Echo of Infinity: When One-to-One Correspondence Fractures Intuition"
 date: 2025-09-16T00:00:00-09:00
 categories:
   - Blog
