@@ -1,6 +1,6 @@
 ---
 title: "Metarchy and PhaseTokenChain: A Structural Sketch for Civilization"
-date: 2025-09-18T00:00:00-05:00
+date: 2025-09-18T00:00:00-09:00
 categories:
   - Governance
   - AI
