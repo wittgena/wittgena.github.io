@@ -44,12 +44,15 @@ tags:
 ## 3. Inversion: Collapse of the Formerly Fit
 
 - Agents most "optimized" for the now-saturated phase become the first to fail.
-- Why? Because they lack:
-  - Structural adaptability.
-  - Redundant pathways for reconfiguration.
-  - Resonance with new phase conditions.
+- But not solely because of their rigidity—
+  **they stood on the invisible foundation of less optimized agents**.
+- As these "lower loops" collapse — due to exhaustion, expulsion, or irrelevance —
+  the hyper-fit **lose the very structure that upheld their dominance**.
+- They are fragile not only in themselves, but in their **dependence on a disappearing substrate**.
 
-> The hyper-fit become the hyper-fragile.
+> And in this void, it is often **the unoptimized, the marginal, the misaligned**  
+> — those pushed to the **edges** of the prior structure —  
+> who carry the seeds of a new phase.
 
 ---
 
