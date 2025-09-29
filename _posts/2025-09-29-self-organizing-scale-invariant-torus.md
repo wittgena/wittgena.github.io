@@ -1,6 +1,6 @@
 ---
 title: "Toroidal Phase Structures II: Self-Organization and Recursive Scale"
-date: 2025-09-29T00:01:00-09:00
+date: 2025-09-29T00:01:00+09:00
 categories:
   - Metaphysics
   - ComplexSystem

@@ -1,6 +1,6 @@
 ---
 title: "Toroidal Topology and the Structural Pressure of Complex Systems"
-date: 2025-09-29T00:00:00-09:00
+date: 2025-09-29T00:00:00+09:00
 categories:
   - ComplexSystem
   - PhaseTopology
