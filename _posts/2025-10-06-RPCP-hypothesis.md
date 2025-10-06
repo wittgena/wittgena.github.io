@@ -206,3 +206,21 @@ and begin restoring what reflects.
 | Perrow - Normal Accidents | Inevitable failure in complexity | Phronesis trapped in execution, Theoria absent |
 | Luhmann - Systems Theory | Self-referential communication systems | System logic replaces reflection |
 | Bourdieu - Habitus & Field | Structured field shapes repeated behavior | Phronesis loops without existential ground |
+
+---
+
+## Appendix B — Penrose’s CCC and the Limits of Conformal Collapse
+
+Roger Penrose’s *Conformal Cyclic Cosmology (CCC)* posits that the universe undergoes repeated cycles of conformal rescaling, where the “end” of one universe — its heat death — becomes the “beginning” of the next.
+
+While this cosmological model captures the intuition that **collapse leads to emergence**, it lacks a phase-structural framework.
+
+| Feature | CCC Theory | RPCP Contrast |
+|---------|------------|----------------|
+| Collapse Trigger | Entropic heat death | Phase disintegration via judgment loss |
+| Emergence Mechanism | Conformal boundary continuity | Theoria reinsertion and phase re-binding |
+| Agent of Change | None (external, geometric) | Judgmental agents (Theoria) within system |
+| Applicability | Physical universe only | Cross-domain: social, cognitive, cosmic |
+
+Thus, CCC gestures at the right **intuition**, but lacks the **structural mechanism**.  
+It confirms the RPCP view that collapse may contain seeds of emergence — but only when **reflection returns.**
