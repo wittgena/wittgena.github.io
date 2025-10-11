@@ -4,7 +4,7 @@ date: 2025-09-29T00:02:00+09:00
 author: Wittgena
 categories:
   - PhaseTheory
-  - ComplexSystem
+  - ComplexSystems
   - Topology
 tags:
   - LMP-Theoria

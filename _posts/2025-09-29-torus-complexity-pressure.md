@@ -2,12 +2,12 @@
 title: "Toroidal Topology and the Structural Pressure of Complex Systems"
 date: 2025-09-29T00:00:00+09:00
 categories:
-  - ComplexSystem
+  - ComplexSystems
   - PhaseTopology
   - Theoria
 tags:
   - ToroidalTopology
-  - ComplexSystem
+  - ComplexSystems
   - PhasePressure
   - Emergence
   - StructuralAttractor

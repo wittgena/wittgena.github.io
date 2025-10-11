@@ -3,12 +3,12 @@ title: "The Recursive Phase Collapse Pattern Hypothesis"
 date: 2025-10-06T00:00:00+09:00
 categories:
     - CollapseTheory
-    - ComplexSystem
+    - ComplexSystems
     - Philosophy
     - Theoria
 tags:
     - collapse
-    - ComplexSystem
+    - ComplexSystems
     - RPCP
     - PhaseTheory
 ---

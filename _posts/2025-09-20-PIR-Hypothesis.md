@@ -3,11 +3,11 @@ title: "Phase Interference Recursion Hypothesis"
 date: 2025-09-20T00:00:00-09:00
 categories:
   - Cosmos
-  - ComplexSystem
+  - ComplexSystems
   - PhaseUniverse
 tags:
   - Cosmos
-  - ComplexSystem
+  - ComplexSystems
   - PhaseUniverse
 ---
 
