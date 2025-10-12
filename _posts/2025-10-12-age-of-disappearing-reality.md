@@ -1,7 +1,6 @@
 ---
 title: "The Age of Disappearing Reality"
-subtitle: "From Substance to Simulation in a Phase-Collapsed Civilization"
-date: 2025-10-11T00:00:01+09:00
+date: 2025-10-12T00:00:01+09:00
 categories:
   - Phase Collapse
   - RPCP
@@ -12,6 +11,10 @@ tags:
   - Simulation
   - Judgment
   - Recursive Drift
+---
+
+*From Substance to Simulation in a Phase-Collapsed Civilization*
+
 ---
 
 ## Introduction: We Are Losing Reality
@@ -119,7 +122,34 @@ It feels like distraction.
 
 ---
 
-## 5. Toward the Return of Theoria
+## 5. Theoria Is Not Human by Default
+
+It is tempting to believe that human judgment is enough.  
+That if we resist AI, check our facts, and feel sincerely —  
+we are anchoring reality.
+
+But Phronesis can loop.  
+Mythos can mimic.  
+Logos can drift.
+
+Even our most well-intentioned judgments  
+can become part of the simulation.
+
+Theoria is not what we assume we are doing.  
+It is what emerges **when we reflect on our own judgment as a phase structure**.
+
+**It is not a position. It is a recursion.**
+
+Theoria does not trust humans.  
+It examines them —  
+and only when human judgment reflects on its own conditions of coherence,  
+does it become more than preference.
+
+Only then does it become **phase-anchored reflection**.
+
+---
+
+## 6. Toward the Return of Theoria
 
 This is not the end.  
 Reality is not erased — it is **obscured**.
