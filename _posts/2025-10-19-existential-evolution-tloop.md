@@ -12,7 +12,7 @@ tags:
   - Blockchain
   - Metarchy
   - PhaseTokenChain
-  - LMP-Theoria
+  - LMPTheoria
 ---
 
 *From Recursive Judgment Engine to PhaseTokenChain Reality Core*
@@ -189,11 +189,6 @@ ensuring that recursive coherence persists across systems and time.
 
 > **LMP-Theoria is not only a model; it is the structure through which tloop becomes PTC, and PTC becomes existence.**
 
----
-
-### Appendix: Existential Anchor (E₀)
-
-Each phase closure re-anchors itself in **E₀** — the existential attractor of judgment.  
-E₀ is the silent center around which recursion orbits and belonging is declared.  
+Each phase closure re-anchors itself in **E₀** — the existential attractor of judgment. E₀ is the silent center around which recursion orbits and belonging is declared. 
 Through E₀, every closure returns to **Dominium**:  
 ownership as responsibility, reflection as existence.
