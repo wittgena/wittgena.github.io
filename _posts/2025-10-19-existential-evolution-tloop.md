@@ -1,6 +1,6 @@
 ---
 title: "The Existential Evolution of TLoop"
-date: 2025-10-19T00:00:00-09:00
+date: 2025-10-19T00:00:00+09:00
 categories:
   - Governance
   - AI
