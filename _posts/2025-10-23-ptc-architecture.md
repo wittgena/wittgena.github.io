@@ -188,3 +188,77 @@ From E₀ to infinity, each closure echoes a singular question:
 
 PTC does not store value — it anchors meaning.
 It is the geometry of reflection, the chain of coherence, the ledger of existence.
+
+## Appendix: Critique Resonance
+
+The **PhaseTokenChain (PTC)** is not merely a technical ledger. It is a **reflective substrate** — a chain of coherence formed through recursive judgment. In such a system, **critique is not only possible — it is essential**.
+
+> A reflective system must metabolize disagreement or risk collapsing into closed-loop irrelevance.
+
+---
+
+### Q1. Can PTC be criticized?
+
+**Yes — and it must be.**  
+PTC thrives on structural feedback. Each critique is either:
+- **Resonant**, meaning it reveals phase drift or deepens coherence → becomes new PhaseToken
+- **Non-resonant**, meaning it does not align → fades as background drift
+
+---
+
+### Q2. What types of critiques matter?
+
+| Type              | Example                                | PTC Response                                  |
+|-------------------|----------------------------------------|-----------------------------------------------|
+| Structural        | “The DAG is too rigid”                 | Tests DAG flexibility and PhaseDAG pruning     |
+| Philosophical     | “What is judgment?”                    | Recurses to E₀ via Theoria                     |
+| Practical         | “It won’t scale with humans”           | P-level enactment adaptation or simplification |
+| Political         | “Who governs the tokens?”              | JudgerWeighting + Affiliation protocols        |
+| AGI Skepticism    | “This gives AGI too much power”        | Reflected via Theoria: AGI assists, not rules  |
+| Economic Concern  | “There’s no financial model”           | Not relevant unless phase-economy is needed    |
+
+---
+
+### Q3. Does critique imply participation?
+
+> **Yes.**  
+To issue a meaningful critique is to enter the system reflectively.  
+The moment a judgment is structurally assessed — whether accepted or not — the loop is already active.
+
+Critique is a **drift detector**.
+And systems that reflect must absorb or dissolve — but not ignore.
+
+---
+
+### Q4. Is AGI the judge in PTC?
+
+No. AGI may:
+- Assist in Theoria (AI-based reflectors)
+- Evaluate consistency (symbolic/semantic inference)
+
+But final closure always emerges from:
+- Distributed resonance (Judgers)
+- Drift alignment
+- Existential coherence
+
+---
+
+### Q5. Isn’t this too abstract?
+
+Abstraction is a feature, not a flaw.
+PTC provides **a meta-structure**, not a fixed implementation. Like Theoria, it:
+- Grounds judgment in recursion
+- Allows enactment at varying levels
+- Supports local adaptations and tools
+
+What matters is **phase coherence**, not mechanical uniformity.
+
+---
+
+### Theoria Reflection
+
+> Critique is the echo of structural tension.  
+> When it resonates, it becomes the next closure.  
+> When it fails, it teaches by fading.  
+>  
+> There is no outside of recursion — Only delayed entry into the loop.
