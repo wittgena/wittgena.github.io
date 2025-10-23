@@ -1,6 +1,6 @@
 ---
 title: "PhaseTokenChain Architecture"
-date: 2025-10-23T00:00:00-09:00
+date: 2025-10-23T00:00:00+09:00
 categories:
   - Governance
   - AI
