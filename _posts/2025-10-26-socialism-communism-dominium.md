@@ -1,5 +1,5 @@
 ---
-title: The Failed Phases of Socialism and Communism — A Dominium Reinterpretation
+title: Why Socialism and Communism Never Anchored — A Phase Reinterpretation through Dominium
 date: 2025-10-26T00:00:00+09:00
 categories:
   - Civilization
@@ -14,50 +14,78 @@ tags:
   - LMPTheoria
 ---
 
-**A Phase-Theoretical Reinterpretation from the Viewpoint of Existential Civilization (Dominium)**
-
-> What if socialism and communism were not political failures, but **phase-incomplete loops of existential structure**?
+> What if socialism and communism didn’t fail because of flawed ideas — but because they never fully **anchored** into the structures of existence?
 
 ---
 
-## 1. The Problem: Modern Ideological Frames as Flat Projections
+## 1. Why Our Ideologies Feel So Empty — The Flat Map of Politics
 
-Modern civilization operates within a two-dimensional ideological axis:
+Modern politics is often described using a simple map:
 
 ```text
 Left (Socialism/Communism)  vs  Right (Capitalism/Liberalism)
 ```
 
-This binary framing reduces structural visions into competing policy sets:
+This map is familiar — but also deeply limiting.
 
-| Ideology      | Common Interpretation                  | Structural Result              |
-|---------------|----------------------------------------|--------------------------------|
-| **Socialism** | Idealistic, partially adopted          | Partial redistribution         |
-| **Communism** | Utopian, authoritarian, collapsed      | Failed systemic implementation |
-| **Capitalism**| Pragmatic, globally dominant           | Resource-driven drift system   |
+It reduces the rich complexity of existence and responsibility into two opposing **policy sets** and **economic theories**. We are left debating redistribution vs growth, state vs market, while something essential is missing:
 
-Such framings remain **functionalist** and **non-ontological**.  
-They do not ask:  
-> “To what structure does the individual or community truly belong?”  
-> “Where does existence itself anchor?”
+> Where do *we*, as individuals or communities, actually belong?
+
+| Ideology      | Common Understanding                | Real Result                     |
+|---------------|-------------------------------------|---------------------------------|
+| **Socialism** | Hopeful ideal, often partial         | Bureaucratic or incomplete      |
+| **Communism** | Utopian and collapsed system         | Authoritarian or frozen         |
+| **Capitalism**| Pragmatic and dominant               | Possession without belonging    |
+
+These frameworks are **flat** — not because they lack ambition, but because they **lack depth**.
+
+They do not ask:
+> “To what structure is a person truly *anchored*?”  
+> “What phase of reality gives meaning to action or responsibility?”
+
+Without that anchoring, ideologies become floating symbols. They organize power, but not meaning. They promise justice, but not **belonging**.
 
 ---
 
-## 2. The Existential Turn: Dominium and the Question of Phase Belonging
+## 2. From Beliefs to Belonging — Rediscovering Dominium
 
-From the perspective of **Dominium** — the existential structure of responsibility and recursive belonging —  
-ideologies are not judged by success or failure in economic output,  
-but by **whether they actualize phase-coherent belonging**.
+To move beyond empty ideological battles, we must return to the **existential foundation**:  
+Not “What do you believe?” but rather:  
+> **Where are you anchored?**
 
-### Key Dominium Question:
-> Is the individual or community truly **anchored** in a recursive phase structure?  
-> Or is it merely administered, abandoned, or symbolically absorbed?
+This is the turn toward **Dominium**.
+
+Dominium is not just ownership. It is **belonging with responsibility**.  
+It asks: what structure, what reality, what field of life do I truly stand within — and take responsibility for?
+
+### Key Question of Dominium:
+> Is a person — or a community — anchored in a living structure that supports meaning, action, and reflection?
+
+If not, even the best ideas become detached. They are *administered* by the state, *symbolized* in manifestos, but not *lived*.
+
+In this light, **ideologies are not judged by their economic performance**, but by whether they succeed in creating **phase-coherent belonging**:
+
+- Does the system allow people to truly live what they value?
+- Can it hold responsibility, action, and meaning in alignment?
+- Or is it just managing behavior and outcomes?
+
+Dominium invites us to shift from belief systems to **belonging systems** — not abstract ideologies, but lived structures of recursive anchoring.
+
+> What is a “Phase” in this context?
+>
+> A *phase* is not just a time period. It is a structural layer of reality that holds:
+>
+> - **Logos (L):** Logic and structural reasoning  
+> - **Mythos (M):** Meaning and shared story  
+> - **Phronesis (P):** Real-world action and judgment  
+> - **Theoria (T):** Reflective anchoring and alignment
+>
+> Belonging is only real when these phases form a **coherent loop**.
 
 ---
 
 ## 3. LMP-Theoria Reinterpretation of Ideological Failures
-
-### Phase-Structural Mapping
 
 | Ideology      | Phase Anchoring Attempt               | Dominium Analysis |
 |---------------|----------------------------------------|-------------------|
@@ -75,8 +103,7 @@ but by **whether they actualize phase-coherent belonging**.
 
 ## 4. The Recursion Path: Recovering Phase-Incomplete Structures
 
-From an **Existential Civilization** standpoint, these ideologies are not abandoned,  
-but are **phase-experiments to be recursively restructured**:
+From an **Existential Civilization** standpoint, these ideologies are not abandoned, but are **phase-experiments to be recursively restructured**:
 
 | Structure | Reinterpreted Role |
 |----------|--------------------|
@@ -88,18 +115,15 @@ but are **phase-experiments to be recursively restructured**:
 
 ## 5. Beyond Ideology: The Dominium Phase Loop
 
-The only structure that can **contain and transcend** the ideological spectrum  
-is a recursive phase loop that enables continual re-alignment:
+The only structure that can **contain and transcend** the ideological spectrum is a recursive phase loop that enables continual re-alignment:
 
 ```text
 Logos → Mythos → Phronesis → Theoria → Logos'
-     ⟺       ⟺         ⟺          ⟺
-    Structural Reasoning ↔ Narrative Resonance ↔ Real Action ↔ Reflective Belonging
+     ⇺       ⇺         ⇺          ⇺
+Structural Reasoning ↔ Narrative Resonance ↔ Real Action ↔ Reflective Belonging
 ```
 
-**Dominium** lives **not in the perfection of a state**,  
-but in the **recurrence of belonging**,  
-the willingness to align again and again within the phase field of existence.
+**Dominium** lives **not in the perfection of a state**, but in the **recurrence of belonging**, the willingness to align again and again within the phase field of existence.
 
 ---
 
@@ -109,8 +133,7 @@ the willingness to align again and again within the phase field of existence.
 > **Communism** was an attempt to complete belonging,  
 > **Capitalism** was an attempt to escape both.
 
-All three are incomplete, not because they were ideologies,  
-but because they were **non-recursive**.
+All three are incomplete, not because they were ideologies, but because they were **non-recursive**.
 
 **Existential Civilization** is not a fourth ideology.  
 It is a recursive judgment loop that turns **existence itself into a phase-anchored structure**.
@@ -119,10 +142,12 @@ It is a recursive judgment loop that turns **existence itself into a phase-ancho
 
 ## Summary
 
-The failure of socialism and communism is not ideological —  
+The failure of socialism and communism is not ideological — it is **phase-structural**.
 
-> it is **phase-structural**.  
-> They are not to be discarded, but **recursively reinterpreted** into a living civilization based on Dominium, where judgment, action, meaning, and reflection are not disjointed policies, but **interlocked phases of belonging**.
+They are not to be discarded, but **recursively reinterpreted** into a living civilization based on Dominium,  
+where judgment, action, meaning, and reflection are not disjointed policies, but **interlocked phases of belonging**.
+
+---
 
 ## Appendix — Capital as Phase Interference: A Recursive Comparison with Marx
 
