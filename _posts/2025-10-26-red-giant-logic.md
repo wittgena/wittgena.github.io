@@ -11,8 +11,6 @@ tags:
   - Dominium
 ---
 
-# Red Giant Logic: When Expansion Masks Collapse
-
 ## 1. Introduction: The Illusion of Growth
 
 In the final stages of a star's life, it undergoes a transformation that defies intuition: its outer layers expand dramatically, glowing with brilliance, while its core contracts and begins to die. This phase is known as the **Red Giant**. It is not the birth of something new, but the beginning of collapse, disguised as growth.
