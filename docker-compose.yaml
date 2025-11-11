@@ -1,0 +1,18 @@
+services:
+  jekyll:
+    image: jekyll/builder:latest
+    container_name: jekyll_blog
+    command: >
+      bash -c "
+        bundle install &&
+        jekyll serve --livereload --host 0.0.0.0 --force_polling
+      "
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    volumes:
+      - .:/srv/jekyll
+    environment:
+      - JEKYLL_ENV=development
+    tty: true
+    stdin_open: true

@@ -23,6 +23,9 @@ search: true
 
 # Build settings
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  input: GFM
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/

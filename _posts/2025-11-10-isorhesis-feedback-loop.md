@@ -102,20 +102,20 @@ Thus, the **Isorhesis Feedback Loop** becomes PTC’s **immune-cognitive hybrid 
 
 ## 7. Mathematical Sketch
 
-Let \( Φ(t) \) be the phase state vector across L, M, and P at time *t*.  
-Let \( C(Φ) \) represent coherence potential.
+Let $Φ(t)$ be the phase state vector across L, M, and P at time *t*.  
+Let $C(Φ)$ represent coherence potential.
 
 The Isorhesis Feedback Loop defines a recursive update:
 
-\[
+$$
 Φ_{t+1} = f(Φ_t, \nabla C(Φ_t))
-\]
+$$
 
 such that:
 
-\[
+$$
 \frac{dC}{dt} ≈ 0 \quad \text{but} \quad Φ_{t+1} \neq Φ_t
-\]
+$$
 
 > The system maintains *coherence invariance* while permitting *structural transformation* — the mathematical essence of isorhesis.
 

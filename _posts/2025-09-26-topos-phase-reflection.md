@@ -1,6 +1,6 @@
 ---
 title: "Topos and PhaseTokens: Toward a Formal Verification Layer for Recursive Civilizations"
-date: 2025-09-26T00:00:00-09:00
+date: 2025-09-26T00:00:00+09:00
 categories:
 	- PTC
 	- TLoop
