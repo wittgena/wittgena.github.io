@@ -19,9 +19,9 @@ What if the seemingly simple Fibonacci sequence was not just a mathematical curi
 
 The Fibonacci sequence is defined as:
 
-```
+$$
 F(n) = F(n-1) + F(n-2), with F(0)=0, F(1)=1
-```
+$$
 
 Traditionally, this is seen as a linear recurrence, generating spiral patterns in nature and beautiful ratios in design. But structurally, Fibonacci is a **recursive self-reference mechanism**:
 
@@ -37,9 +37,9 @@ This alone makes Fibonacci a living model of how structure can grow recursively 
 
 Now, let us enrich Fibonacci with an additional term:
 
-```
+$$
 Z(n) = Z(n-1) + Z(n-2) + Z(n-1) * Z(n-2)
-```
+$$
 
 This modification is not arbitrary. It arises from the idea that any self-organizing system—biological, cognitive, social—relies not just on sequential inheritance (addition), but also on **interactional synergy** (multiplication). The third term introduces:
 
@@ -55,15 +55,15 @@ This updated sequence reflects **recursive generation + interactional phase dyna
 
 We now take the system into the complex domain:
 
-```
+$$
 Z(n) ∈ ℂ, such that Z(n) = Z(n-1) + Z(n-2) + Z(n-1)*Z(n-2)
-```
+$$
 
 Let each term be expressed in polar form:
 
-```
+$$
 Z(k) = r_k * e^{iθ_k}
-```
+$$
 
 This brings in two core components:
 
@@ -78,9 +78,9 @@ Now the recurrence evolves not just in value, but in **phase rotation** and **co
 
 At this point, the structure begins to resemble the famous Mandelbrot iteration:
 
-```
+$$
 z_{n+1} = z_n^2 + c
-```
+$$
 
 Both systems involve:
 

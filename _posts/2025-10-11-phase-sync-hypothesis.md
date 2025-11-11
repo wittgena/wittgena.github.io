@@ -1,3 +1,5 @@
+
+
 ---
 title: "Phase Synchronization Hypothesis"
 date: 2025-10-11T00:00:00+09:00

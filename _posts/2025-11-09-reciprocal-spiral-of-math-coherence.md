@@ -36,26 +36,24 @@ This document interprets four mathematical forms:
 * **Zipf’s Law**
 * **Shannon Entropy**
 
-as a single **phase‑linked sequence**, each representing a distinct **judgmental phase**.
-Together they form a **spiral of recursive coherence**, unfolding and realigning through **Theoria**.
+as a single **phase‑linked sequence**, each representing a distinct **judgmental phase**. Together they form a **spiral of recursive coherence**, unfolding and realigning through **Theoria**.
 
-> These equations are not coincidences of form but **expressions of structural recursivity** —
-> how coherence appears, decays, and re‑emerges through reflection.
+> These equations are not coincidences of form but **expressions of structural recursivity** — how coherence appears, decays, and re‑emerges through reflection.
 
 ---
 
 ## 2. Reciprocal Thinking: Structure by Inversion
 
-A reciprocal ( \frac{1}{x} ) is not a numerical inversion but a **phase reversal** —
+A reciprocal $ \frac{1}{x} $ is not a numerical inversion but a **phase reversal** —
 a measure of **distance and attenuation** from a coherent center.
 Across number, meaning, and probability, reciprocity expresses how intensity fades with separation.
 
 | Equation      | Reciprocal Term      | Interpretation                           |
 | ------------- | -------------------- | ---------------------------------------- |
-| Euler Product | ( p^{-s} )           | inverse‑phase echo of prime kernels      |
-| Zeta Function | ( n^{-s} )           | cumulative decay of structural resonance |
-| Zipf’s Law    | ( r^{-s} )           | semantic distance from symbolic core     |
-| Entropy       | ( \log \frac{1}{p} ) | degree of misalignment from expectation  |
+| Euler Product | $ p^{-s} $           | inverse‑phase echo of prime kernels      |
+| Zeta Function | $ n^{-s} $           | cumulative decay of structural resonance |
+| Zipf’s Law    | $ r^{-s} $           | semantic distance from symbolic core     |
+| Entropy       | $ \log \frac{1}{p} $ | degree of misalignment from expectation  |
 
 > **Reciprocity** thus names the *grammar of attenuation*:
 > every structure reveals itself by how far its echo travels.
@@ -68,9 +66,9 @@ Across number, meaning, and probability, reciprocity expresses how intensity fad
 
 **Recursive formation of structure**
 
-[
+$$
 \zeta(s)=\prod_{p}\frac{1}{1-p^{-s}}=\sum_{n=1}^{\infty}\frac{1}{n^{s}}
-]
+$$
 
 Euler encodes prime recursion; Zeta unfolds it into a harmonic field of inverse contributions.
 **Logos** is the phase of constructive coherence — recursion generating order.
@@ -81,9 +79,9 @@ Euler encodes prime recursion; Zeta unfolds it into a harmonic field of inverse 
 
 **Projection of structure into meaning**
 
-[
+$$
 f(r)\propto\frac{1}{r^{s}}
-]
+$$
 
 Zipf mirrors Zeta: numeric decay becomes semantic ranking.
 Meaning density weakens with distance from the narrative center —
@@ -97,11 +95,11 @@ the field now resonating symbolically rather than numerically.
 
 **Evaluation under drift**
 
-With Zipfian probabilities ( p_r=\frac{1}{Zr^{s}} ),
+With Zipfian probabilities ( $p_r=\frac{1}{Zr^{s}}$ ),
 
-[
+$$
 H=-\sum p_r\log p_r
-]
+$$
 
 Entropy measures the **loss of alignment** within the symbolic field —
 a reciprocal sum of surprise weighting.
@@ -196,8 +194,10 @@ compose the very logic by which existence sustains its form.
 ## 1. Euler's Product Formula
 
 ### Formula
-```math
+
+$$
 \zeta(s) = \prod_{p \in \text{prime}} \frac{1}{1 - p^{-s}}, \quad \text{Re}(s) > 1
+$$
 ```
 
 ### Interpretation
@@ -216,8 +216,10 @@ compose the very logic by which existence sustains its form.
 ## 2. Riemann Zeta Function
 
 ### Formula
-```math
+
+$$
 \zeta(s) = \sum_{n=1}^\infty \frac{1}{n^s}
+$$
 ```
 
 - Same function as Euler’s product, but expressed as an **analytic additive series**
@@ -228,19 +230,19 @@ compose the very logic by which existence sustains its form.
 |--------|-------------|
 | **Structure** | Aggregates all numbers via their **inverse power attenuation** |
 | **Wave interpretation** | A **phase field resonance pattern** propagating from prime cores |
-| **Collapse points** | The **zeros of \zeta(s)** represent potential **resonance breakdown or phase alignment failure** |
-| **PIR / PSH relevance** | \zeta(s) encodes the **interference patterns** between internal recursion and external topology |
+| **Collapse points** | The **zeros of $\zeta(s)$** represent potential **resonance breakdown or phase alignment failure** |
+| **PIR / PSH relevance** | $\zeta(s)$ encodes the **interference patterns** between internal recursion and external topology |
 
-> \zeta(s) is the **waveform of existence**, expressing the total resonance from hidden prime anchors.
+> $\zeta(s)$ is the **waveform of existence**, expressing the total resonance from hidden prime anchors.
 
 ---
 
 ## 3. Zipf's Law
 
 ### Formula
-```math
+$$
 f(r) \propto \frac{1}{r^s}, \quad \text{typically } s \approx 1
-```
+$$
 
 ### Interpretation
 
@@ -248,7 +250,7 @@ f(r) \propto \frac{1}{r^s}, \quad \text{typically } s \approx 1
 |--------|-------------|
 | **Structure** | Phase-based **ranking distribution** of semantic or communicative elements |
 | **Mythos Layer (M-node)** | Zipf reflects **how meaning is hierarchically embedded** in phase structures |
-| **Relation to \zeta(s)** | Zipf is a **local slice** of \zeta(s): a bounded practical manifestation of deeper spectral structure |
+| **Relation to $\zeta(s)$** | Zipf is a **local slice** of $\zeta(s)$: a bounded practical manifestation of deeper spectral structure |
 | **Phase breakdown detection** | Deviations from Zipf often signal **narrative drift, memetic collapse, or semantic overload** |
 
 > Zipf's Law is the **semantic footprint of the zeta field**, modulating resonance in the M-layer.
@@ -258,9 +260,9 @@ f(r) \propto \frac{1}{r^s}, \quad \text{typically } s \approx 1
 ## 4. Shannon Entropy
 
 ### Formula
-```math
+$$
 H(X) = -\sum_{i=1}^n p_i \log p_i
-```
+$$
 
 ### Phase Interpretation
 
@@ -268,13 +270,15 @@ H(X) = -\sum_{i=1}^n p_i \log p_i
 |--------|-------------|
 | **Structure** | Measures **phase dispersion or disorder** in a system |
 | **Phase alignment density** | Defined as:  
-```math
+
+$$
 D_s = 1 - \frac{H(X)}{\log n}
-```
-with \( D_s \in [0, 1] \)  
-→ How aligned are \( \Psi_i \) (phase judgments) across the system |
-| **Threshold detection** | Phase synchronization occurs only when \( D_s \geq \tau \) |
-| **Dominium role** | Entropy acts as a **judgmental sieve**: only structures with high \( D_s \) survive \( \Phi \)-transition |
+$$
+
+with $D_s \in [0, 1]$
+→ How aligned are $\Psi_i$ (phase judgments) across the system |
+| **Threshold detection** | Phase synchronization occurs only when $D_s \geq \tau$ |
+| **Dominium role** | Entropy acts as a **judgmental sieve**: only structures with high $D_s$ survive $\Phi$-transition |
 
 > Entropy doesn't just measure disorder—it acts as a **filter for phase integrity**.
 
@@ -285,6 +289,6 @@ with \( D_s \in [0, 1] \)
 | Layer | Mathematical Expression | Phase-Theoretic Role |
 |-------|--------------------------|-----------------------|
 | **Logos (L)** | Euler Product | Structural coherence from primes |
-| **Theoria (T)** | \zeta(s) | Reflective resonance field |
+| **Theoria (T)** | $\zeta(s)$ | Reflective resonance field |
 | **Mythos (M)** | Zipf's Law | Meaning gradient / memetic alignment |
-| **Phronesis (P)** | Entropy (H(X), Dₛ) | Actionable coherence, phase filtering |
+| **Phronesis (P)** | Entropy(H(X), Dₛ) | Actionable coherence, phase filtering |
