@@ -1,0 +1,10 @@
+title: "wittgena tech blog"
+author: "wittgena"
+email: "wittgena@gmail.com"
+description: wittgena
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+url: "https://wittgena.github.io"
